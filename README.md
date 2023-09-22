@@ -1,6 +1,6 @@
 # Excercise-03
 
-Como parte del tecer ejercicio que se nos asignó utilizando el motor de videojuegos Unity, se estuvo realizando el El Templo Mayor ubicado en México y detalles adicionales para embellecer el área utilizando las herramientas aprendidas en clase en 3D.
+Como parte del tercer ejercicio que se nos asignó utilizando el motor de videojuegos Unity, se estuvo realizando el El Templo Mayor ubicado en México y detalles adicionales para embellecer el área utilizando las herramientas aprendidas en clase en 3D.
 
 Pasos para la realización del Templo Mayor:
 
