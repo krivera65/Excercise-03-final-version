@@ -22,7 +22,10 @@ Se estuvo utilizando la herramienta new poly shape para la creación de los bloq
 3.	Luego, en este paso se configuró el templo con recursos del asset store de Unity como lo fueron las casas (low poly FPS map lite) que se colocaron alrededor del templo, que simulan lo que sería la aldea de los aztecas y el paquete de rocas realistas gratuitas, que se distribuyeron alrededor de todo el terreno.
 
 4.	Para culminar nuestro proyecto se añadió el paquete de plantas yugues free bushes al terreno, luego añadimos tres de los animales que se veían en esa época que existieron los aztecas, como los lobos (wolf animated), las águilas (egypt pack-eagle) y los tigres (golden tiger). Finalmente, le añadimos tres tipos de guerreros, el guerrero principal que es quien protegería el territorio de invasores (warrior + axe), una guerrera para complementar al guerrero (female warrior assassin) y los guerreros complementarios que los aldeanos aztecas (lowpoly-universal character (modular)).
-   
+
+![a2e35439-6b![a2e35439-6b36-48cf-a6fd-25e40fe38858(1)](https://github.com/krivera65/Excercise-03-final-version/assets/143332773/526c5613-eeaa-4ee8-898b-74b8c25cab37)
+![a2e35439-6b36-48cf-a6fd-25e40fe38858](https://github.com/krivera65/Excercise-03-final-version/assets/143332773/ed1b96de-d615-47c1-8002-4a71840c2d9e)
+![5146241b-aff0-4295-8b84-b0371339842e](https://github.com/krivera65/Excercise-03-final-version/assets/143332773/ceb433ea-3fcd-482b-96cd-8a26d2703433)
 5.	Consideramos que crear un videojuego basado en lo que fue la cultura azteca sería una oportunidad sumamente emocionante debido a que podemos educar y de igual manera entretener a una audiencia mientras los mismos pueden tener la experiencia de explorar uno de los periodos que quedó marcado en la historia. 
 
 Concepto general de nuestro video juego:
